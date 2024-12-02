@@ -1,2 +1,2 @@
 # Learning-APIs
-Learning-APIs is a project focused on exploring and understanding various web APIs. It provides examples and tutorials for using different APIs effectively, showcasing how to integrate them into applications.
+This project demonstrates a basic integration with a public API. It includes steps to set up the project, fetch data from the API, and display it in a user-friendly format.
